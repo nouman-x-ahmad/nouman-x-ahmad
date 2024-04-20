@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouman Ahmad</h1>
-<h3 align="center">A random guy with a passion of development</h3>
+<h3 align="center">A random guy with a passion for development</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouman-x-ahmad&label=Profile%20views&color=0e75b6&style=flat" alt="nouman-x-ahmad" /> </p>
