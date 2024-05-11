@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouman-x-ahmad&theme=radical&utcOffset=8" alt="Productive Time" width="710" height="300">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nouman-x-ahmad&theme=radical&utcOffset=5" alt="Productive Time" width="710" height="300">
 </p>
 
 <!-- Footer -->
