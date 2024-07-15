@@ -24,7 +24,8 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="Kotlin"/>
   <img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android Studio"/>
-  <img src="https://img.icons8.com/color/48/000000/ms-sql-server.png" alt="MS SQL"/>
+  <img src="https://logowik.com/content/uploads/images/mysql.jpg" alt="MS SQL" width="48" height= "41"/>
+    <img src="https://developers.google.com/static/ml-kit/images/homepage/hero_480.png" alt="ML Kit" width="48" height= "41"/>
 </p>
 
 <!-- GitHub Stats -->
