@@ -13,6 +13,16 @@
 <p align="center">
   🌟 Welcome to my GitHub profile! 🌟 <br>
   I'm a Computer Science student, passionate about software development.
+
+  I have a solid foundation in computer science principles, coupled with hands-on experience in various programming languages. My primary focus is on building innovative and efficient solutions, whether it's a mobile app, backend service, or database system.
+
+### Skills and Technologies:
+
+- **Mobile Development:** Android Studio, Kotlin, Firebase
+- **Backend Development:** REST APIs
+- **Programming Languages:** C++, C, C#, x86, kotlin.
+- **Concepts:** Programming Fundamentals, Object-Oriented Programming (OOP), Data Structures and Algorithms
+- **Database Management:** SQL
 </p>
 
 <!-- Proficient At -->
