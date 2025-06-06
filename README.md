@@ -1,6 +1,6 @@
 
 <!-- Header -->
-<h1 align="center">👋ASSALAM-U-ALAIKUM! </h1>
+<h1 align="center">👋<!-- ASSALAM-U-ALAIKUM!--> </h1>
 <h1 align="center">My name is Nouman Ahmad</h1>
 
 <!-- Profile Visit Counter -->
