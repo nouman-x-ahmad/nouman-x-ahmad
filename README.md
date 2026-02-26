@@ -14,7 +14,7 @@
   🌟 Welcome to my GitHub profile! 🌟 <br>
   I'm a Computer Science student, passionate about software development.
 
-  I have a solid foundation in computer science principles, coupled with hands-on experience in various programming languages. My primary focus is on building innovative and efficient solutions, whether it's a mobile app, backend service, or database system.
+  I have a solid foundation in computer science principles, coupled with hands-on experience in various programming languages. My primary focus is on building innovative and efficient solutions, whether it's a ai development, mobile app, backend service, or database system.
 
 ### Skills and Technologies:
 
